@@ -2,8 +2,8 @@
 ### Hi there 👋 I'm Edio
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning JavaScript/Typescript.
-- 👯 I’m looking to collaborate on NodeJs Projects
+- 🌱 I’m currently learning JavaScript/Typescript and Golang.
+- 👯 I’m looking to collaborate on NodeJs and Go Projects
 - 📫 How to reach me: https://www.linkedin.com/in/edio-gama-filho-vital-6b56a5207/
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=ediogama&theme=prussian&show_icons=true)
