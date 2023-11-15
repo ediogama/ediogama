@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Web and Mobile Development.
 - 🌱 I’m currently learning JavaScript/Typescript and Golang.
-- 👯 I’m looking to collaborate on NodeJs, Golang, React and React Native Projects
+- 👯 I’m looking to collaborate on NodeJs, Golang, IA, React and React Native Projects
 - 📫 How to reach me: https://www.linkedin.com/in/edio-gama-filho-vital-6b56a5207/
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=ediogama&theme=prussian&show_icons=true)
